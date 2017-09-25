@@ -1,4 +1,4 @@
-#WeTalkIT Community 
+# WeTalkIT Community 
 
 ##Pillars of the community
 
